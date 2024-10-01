@@ -1,0 +1,25 @@
+---
+title: "Git and Github - General Overview"
+subtitle: "South East Performance Analysis Team"
+author: John Cusack
+date: "01 October 2024"
+format: 
+  html:
+    toc: true
+    toc-location: left
+editor: visual
+title-block-banner: images/nhs-blue.png
+number-sections: true
+mainfont: "Arial"
+---
+
+## What is Git?
+
+Git is a version control system.
+
+### That's it? So, what's all of the fuss about?
+
+Yep that's it. Git is just a way to keep track of a project or even a single document as it is being worked on.
+
+The reason we want to use it is that it is something that makes working collaboratively on a piece of work much easier because everyone can work on their own copy of a thing and git will keep track of them  and has been around for nearly 20 years at the time of writing this document. It is lightweight, fast and open source.
+
